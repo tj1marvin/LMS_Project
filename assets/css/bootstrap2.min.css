@@ -1,0 +1,4 @@
+.col-custom {
+    flex: 0 0 20%; /* 5 columns */
+    max-width: 20%; /* 5 columns */
+}
